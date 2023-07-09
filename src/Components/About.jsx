@@ -31,12 +31,18 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full stack development",
+  "DevOps",
+  "MERN stack",
+  "GO lang",
+  "System design",
+  "C/C++",
+  "Python",
+  "Apache kafka",
+  "AWS",
+  "Azure",
+  "Google Cloud",
+  "Cs Fundamentals",
 ];
 
 /**
@@ -45,8 +51,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Currently enrolled in 4 year B.TECH degree in INDUSTRIAL DESIGN ,at NIT ROURKELA. Highly experienced in DevOps ,C/C++, Backend development. Interested in distributed systems, backend engineering & CS Fundamentals. Open Source Enthusiast. Love to deep dive into cool technologies and always learning something new."
 const About = () => {
   return (
     <section className="padding" id="about">

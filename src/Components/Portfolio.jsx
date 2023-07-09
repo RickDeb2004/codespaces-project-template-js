@@ -32,35 +32,37 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "EvoLoadBalancer",
- techstack:"Go,System Design Fundamentals",
-   description: "It's basically a load-balancer which has some advance feature with improved load balancing algorithm and having health awareness of servers",
-   url: "https://github.com/RickDeb2004/EvoLoadBalancer",
- },
- {
-   title: "PowerCache",
-     techstack:"Go ,System Design Fundamentals",
-   description: "It's a cache server which has some advance feature with improved caching algorithm and having health awareness of servers",
-   url: "https://github.com/RickDeb2004/PowerCache ",
- },
- {
-   title: "securE-mail",
-     techstack:"Go",
-   description: "It works as email verification system which is used to verify the email address of the user and domain of the mails and also check the personal info about the owner of the mail ",
-   url:"https://github.com/RickDeb2004/securE-mail"
- },
- {
-   title: "FireDataBase",
-     techstack:"Firebase, MERN,REST API ",
-   description: "Making Database using Firebase",
-   url: "https://github.com/RickDeb2004/SPAMBYTES-HACKFEST/tree/master",
- },
- {
-     title: "MERN-Stack-Project",
-     techstack:"MERN",
-     description: "A MERN Stack Project",
-     url: "https://github.com/RickDeb2004/MONDAY-MORNING-_TASK-BACKEND",
-
- }
+    techstack: "Go,System Design Fundamentals",
+    description:
+      "It's basically a load-balancer which has some advance feature with improved load balancing algorithm and having health awareness of servers",
+    url: "https://github.com/RickDeb2004/EvoLoadBalancer",
+  },
+  {
+    title: "PowerCache",
+    techstack: "Go ,System Design Fundamentals",
+    description:
+      "It's a cache server which has some advance feature with improved caching algorithm and having health awareness of servers",
+    url: "https://github.com/RickDeb2004/PowerCache ",
+  },
+  {
+    title: "securE-mail",
+    techstack: "Go",
+    description:
+      "It works as email verification system which is used to verify the email address of the user and domain of the mails and also check the personal info about the owner of the mail ",
+    url: "https://github.com/RickDeb2004/securE-mail",
+  },
+  {
+    title: "FireDataBase",
+    techstack: "Firebase, MERN,REST API ",
+    description: "Making Database using Firebase",
+    url: "https://github.com/RickDeb2004/SPAMBYTES-HACKFEST/tree/master",
+  },
+  {
+    title: "MERN-Stack-Project",
+    techstack: "MERN",
+    description: "A MERN Stack Project",
+    url: "https://github.com/RickDeb2004/MONDAY-MORNING-_TASK-BACKEND",
+  },
 ];
 
 const Portfolio = () => {

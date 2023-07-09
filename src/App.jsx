@@ -29,7 +29,7 @@ const siteProps = {
   email: "debanjanrick04@gmail.com",
   gitHub: "RickDeb2004",
   instagram: "i_am_debanjan_2004",
-  linkedIn: "debanjan-mukherjee-181615224",
+  linkedIn: "debanjan-mukherjee-181615224"
   
   
 };

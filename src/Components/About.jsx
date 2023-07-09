@@ -5,17 +5,6 @@
  */
 
 import React from "react";
-
-/**
- * About background image
- *
- * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
- * represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a image you
- * freely use on your site.
- */
 import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";
@@ -51,7 +40,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Currently enrolled in 4 year B.TECH degree in INDUSTRIAL DESIGN ,at NIT ROURKELA. Highly experienced in DevOps ,C/C++, Backend development. Interested in distributed systems, backend engineering & CS Fundamentals. Open Source Enthusiast. Love to deep dive into cool technologies and always learning something new."
+  "I'm passionate about learning new technologies and working on challenging projects. I'm a quick learner and a team player. I'm always looking for opportunities to learn and grow.";
 const About = () => {
   return (
     <section className="padding" id="about">

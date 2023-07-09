@@ -13,7 +13,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a 2nd year student at NIT Rourkela. I'm a full stack developer and a system design enthusiast and proficient at DevOps. I'm a quick learner and a team player. I'm always looking for opportunities to learn and grow.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

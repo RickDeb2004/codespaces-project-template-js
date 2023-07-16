@@ -63,6 +63,19 @@ const projectList = [
     description: "A MERN Stack Project",
     url: "https://github.com/RickDeb2004/MONDAY-MORNING-_TASK-BACKEND",
   },
+  {
+    title: "Discord Bot",
+    techstack: "Go",
+    description:
+      "This bot project is designed to create a Discord bot with various features. The project consists of multiple files, including main.go, bot.go, config.go, and additional files for utility, poll, quiz and custom embed functionality.",
+    url: "https://github.com/RickDeb2004/bot",
+  },
+  {
+    title: "Power-project",
+    techstack: "Go,Cs Fundamentals",
+    description: "I have made very advanced distributed system with load balancer and cache",
+    url: "https://github.com/RickDeb2004/power-project",
+  },
 ];
 
 const Portfolio = () => {

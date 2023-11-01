@@ -52,16 +52,18 @@ const projectList = [
     url: "https://github.com/RickDeb2004/securE-mail",
   },
   {
-    title: "FireDataBase",
-    techstack: "Firebase, MERN,REST API ",
-    description: "Making Database using Firebase",
-    url: "https://github.com/RickDeb2004/SPAMBYTES-HACKFEST/tree/master",
+    title: "Project Lavender",
+    techstack: "Firebase, MERN, GPAY",
+    description:
+      "This is a responsive website for a charitable trust which includes feature of payment integration, user authentication, admin panel, etc. ",
+    url: "https://github.com/RickDeb2004/RamLakhanCharity",
   },
   {
-    title: "MERN-Stack-Project",
-    techstack: "MERN",
-    description: "A MERN Stack Project",
-    url: "https://github.com/RickDeb2004/MONDAY-MORNING-_TASK-BACKEND",
+    title: "AutomateGit",
+    techstack: "Go, Git",
+    description:
+      "This project provides a set of tools to streamline your Git workflow and enhance productivity. It allows you to automate common Git actions, such as adding, committing, and pushing changes, while providing features like dynamic commit messages, interactive prompts, and logging.",
+    url: "https://github.com/RickDeb2004/git-automate",
   },
   {
     title: "Discord Bot",
@@ -75,6 +77,13 @@ const projectList = [
     techstack: "Go,Cs Fundamentals",
     description: "I have made very advanced distributed system with load balancer and cache",
     url: "https://github.com/RickDeb2004/power-project",
+  },
+  {
+    title: "Health-Check-Tool",
+    techstack: "Go",
+    description:
+      "This tool is used to check the health of the server and also check the health of the website",
+    url: "https://github.com/RickDeb2004/Health-check-tool",
   },
 ];
 
